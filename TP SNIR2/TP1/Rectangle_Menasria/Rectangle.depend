@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1663243336 source:e:\jm_bts_snir\c++\tp snir2\tp1\rectangle\rectangle.cpp
+	"Rectangle.hpp"
+	<iostream>
+	<windows.h>
+
+1663242160 e:\jm_bts_snir\c++\tp snir2\tp1\rectangle\rectangle.hpp
+
+1663243392 source:e:\jm_bts_snir\c++\tp snir2\tp1\rectangle\main.cpp
+	<iostream>
+	"Rectangle.hpp"
+
+1663243392 source:e:\jm_bts_snir\c++\tp snir2\tp1\rectangle_menasria\main.cpp
+	<iostream>
+	"Rectangle.hpp"
+
+1663242160 e:\jm_bts_snir\c++\tp snir2\tp1\rectangle_menasria\rectangle.hpp
+
+1663243336 source:e:\jm_bts_snir\c++\tp snir2\tp1\rectangle_menasria\rectangle.cpp
+	"Rectangle.hpp"
+	<iostream>
+	<windows.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668088548 source:e:\jm_bts_snir\c++\tp snir2\pratique\eval\main.cpp
+	<iostream>
+	"etudiant.h"
+	<stdlib.h>
+
+1668087810 e:\jm_bts_snir\c++\tp snir2\pratique\eval\etudiant.h
+	<string>
+	<iostream>
+
+1668087720 source:e:\jm_bts_snir\c++\tp snir2\pratique\eval\etudiant.cpp
+	"etudiant.h"
+

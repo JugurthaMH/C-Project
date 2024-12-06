@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1665662984 source:e:\jm_bts_snir\c++\tp snir2\tp2\tp2_exo2\main.cpp
+	<iostream>
+
+1665662546 e:\jm_bts_snir\c++\tp snir2\tp2\tp2_exo2\personne.h
+	<iostream>
+	<string.h>
+
+1665662546 e:\jm_bts_snir\c++\tp snir2\tp2\tp2_exo2\mathsprofesseur.h
+	<iostream>
+
+1665662700 e:\jm_bts_snir\c++\tp snir2\tp2\tp2_exo2\svtprofesseur.h
+	<iostream>
+

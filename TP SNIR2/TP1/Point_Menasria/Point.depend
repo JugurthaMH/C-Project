@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663245540 source:e:\jm_bts_snir\c++\tp snir2\tp1\point\point.cpp
+	"Point.hpp"
+
+1663245372 e:\jm_bts_snir\c++\tp snir2\tp1\point\point.hpp
+	<iostream>
+	<windows.h>
+
+1663245456 source:e:\jm_bts_snir\c++\tp snir2\tp1\point\main.cpp
+	<iostream>
+	"Point.hpp"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665661954 source:e:\jm_bts_snir\c++\tp snir2\tp2\ibegyou\main.cpp
+	<iostream>
+	"Joueur.hpp"
+
+1665661466 source:e:\jm_bts_snir\c++\tp snir2\tp2\ibegyou\joueur.cpp
+	"Joueur.hpp"
+
+1665661482 e:\jm_bts_snir\c++\tp snir2\tp2\ibegyou\joueur.hpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663247976 source:e:\jm_bts_snir\c++\tp snir2\tp1\carre\main.cpp
+	<iostream>
+	"Carre.hpp"
+
+1663247566 e:\jm_bts_snir\c++\tp snir2\tp1\carre\carre.hpp
+
+1663248030 source:e:\jm_bts_snir\c++\tp snir2\tp1\carre\carre.cpp
+	"Carre.hpp"
+	<iostream>
+
